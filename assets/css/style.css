@@ -1,0 +1,38 @@
+
+.container-fluid{
+  background-image: #abe187;
+  padding: 0%;
+  margin: 0%;
+}
+
+header{
+  background-color: #f78d69;
+  width:auto; 
+	height: 100px;
+  margin-bottom: 0px;
+	padding: 0px;
+  text-align: right;
+  font-family: sans-serif;
+  color: whitesmoke;
+} 
+
+
+.pandaPhoto {
+  width: 100%;
+  margin-bottom: 30px solid #f78d69;
+  margin-top: 30px solid #f78d69;
+}
+
+.row {
+  background-color: #ABE188;
+}
+
+#smallImage {
+  padding: 4em 4em; 
+}
+
+h2 {
+  text-align: center;
+  color: whitesmoke;
+  padding-top: 3em;
+}
